@@ -1,46 +1,46 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="30px"> 💁🏻‍♂️👇 Check out my Git Hub Profile👇</h2>
 <br/>
-<img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/nakulbhati.png"></h2>
+<img src="https://raw.githubusercontent.com/suriyahh2006/Surya-Savanth/master/contain/nakulbhati.png"></h2>
 <br/>
 
-- I'm a DevOps Engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
-- I'm a business-oriented technologist with 7+ years of experience in the area of Cloud & DevOps, Specializing in cloud infrastructure, virtualization & Networking.
-- Experienced in a wide range of technologies, with unique and in-depth experience in OpenStack, AWS, VMware & Linux, DevOps.
-- My main goal is to improve my professional skills while recreating & redesigning projects in a wide range of technologies.
+- I'm a >Software Developer in Test who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
+- I'm a business-oriented technologist with 9+ years of experience in the area of Automation Testing & DevOps, Specializing in cloud and Micro Service
+- Experienced in a wide range of technologies, with unique and in-depth experience in OpenStack, Docker & Linux, DevOps.
+- My main goal is to improve my professional skills by reducing the manual efforts to automated test cases, saving time and resources using open source tools and frameworks
 - I like challenging position where I can effectively contribute my technical skills and help me grow as an individual and acutely gain business knowledge.
 
 
-For more details see [stackoverflow](https://stackoverflow.com/story/nakulsinghbhati).
 
 # TECH STACK
   ### Languages
   
-      🐍 Python
-      🤖 Bash
-      🦾 PowerShell
+      Selenium
+      Cucumber BDD
+      Protractor
+      RestAPI
       
 <br/>
 
  ## DevOps Tools
              
-| Version Control                | Continuous Integration               | Automated Testing                          |
+| Version Control                | Continuous Integration               | Automated/Performance Testing              |
 |--------------------------------|--------------------------------------|--------------------------------------------|
 | :---                           | :---                                 | :---                                       |
 | • Git Lab                      | • Jenkins                            | • Selenium                                 |
-| • Git Hub                      | • Azure DevOps                       | • SoapUI                                   |
-| • Code Commit                  | • AWS Code Build                     | • Pester (Power Shell Module for testing ) |
-|                                | • Git Lab                            | • Jenkins                                  |
-|                                | • Git Hub Action                     |                                            |
-|                                | • Spinnaker                          |                                            | 
+| • Git Hub                      | • Docker                             | • Protractor                               |
+| • Code Commit                  | • AWS Code Build                     | • Cucumber Gherkin                         |
+|                                | • Git Hub Action                     | • NewMan                                   |
+|                                |                                      | • Jmeter                                   |
+|                                |                                      |                                            | 
        
      
 | Continuous Deployment          | DevSecOps                            | Automation                                 |
 |--------------------------------|--------------------------------------|--------------------------------------------|
 | :---                           | :---                                 | :---                                       |
-| • Azure DevOps (Agent Base)    | • Qualys                             | • Terraform (IAAC)                         |
+| • Docker                       | • Qualys                             | • Terraform (IAAC)                         |
 | • GitLab                       | • CodeQL Analysis                    | • Ansible Tower (Red Hat)                  |
 | • Code Deploy | Code Pipeline  | • Git Lab                            |                                            |
-| • Octopus                      | • Git Hub                            |                                            |
+| • Terraform                    | • Git Hub                            |                                            |
 | • Ansible                      |                                      |                                            |
       
       
@@ -66,24 +66,17 @@ For more details see [stackoverflow](https://stackoverflow.com/story/nakulsinghb
 |                                | • Netwrix Auditor                    |                                            |
 |                                | • Sensu                              |                                            |  
       
-      
-      
-### Certification 
-      • AWS Certified Solution Architect - Associate
-      • Red Hat Certified System Administrator (RHCSA)
-      • Red Hat Certified Engineer (RHCE)
-      • Red Hat OpenStack(CL210)
-      • Net backup Version 8.0 (VERITAS)
+    
 
 <br/>
 
 ### Support or Contact
 
-👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](nakul.bhati@yahoo.in)
+👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](surya.savanth@yahoo.in)
 
 ####
 
-<a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30"></a>
+<a href="https://github.com/suriyahh2006" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30"></a>
 <a href="https://twitter.com/local__tourist" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>
 <a href="https://www.instagram.com/local__tourist/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/kunwar-nakul-singh-bhati/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
