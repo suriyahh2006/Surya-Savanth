@@ -1,6 +1,5 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="30px"> 💁🏻‍♂️👇 Check out my Git Hub Profile👇</h2>
 <br/>
-<img src="https://raw.githubusercontent.com/suriyahh2006/Surya-Savanth/master/contain/nakulbhati.png"></h2>
 <br/>
 
 - I'm a >Software Developer in Test who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
